@@ -12,4 +12,6 @@
 
 5. npm i axios // simply send req.
 
+6. Resources
+    > https://jsonplaceholder.typicode.com/
 
